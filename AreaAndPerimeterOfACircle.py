@@ -1,0 +1,7 @@
+print("Area = radius * radius * p")
+print("Area = 5.5 * 5.5 * 3.14159 ")
+print("Area Of Circle Is  " + str(5.5 * 5.5 * 3.14159) + ".")
+print(" ")
+print("Perimeter = 2 * radius * p")
+print("Perimeter = 2 * 5.5 * 3.14159 ")
+print("Perimeter Of Circle Is  " + str(2 * 5.5 * 3.14159) + ".")
